@@ -8,6 +8,7 @@ This is a curated list of awesome things related to Pixi.
 
 - [Learning](#learning)
 - [Extensions](#extensions)
+- [Build Backends](#build-backends)
 - [IDE Support](#ide-support)
 - [Projects using Pixi](#projects-using-pixi)
 - [Contribute](#contribute)
@@ -37,14 +38,32 @@ Where can you learn about Pixi?
 
 ## Extensions
 
-Community made tools and extensions, for documentation [check here](https://pixi.sh/latest/integration/extensions/introduction/)
+Community made tools and extensions, [documentation](https://pixi.sh/latest/integration/extensions/introduction/).
 
 - [pixi-diff-to-markdown](https://github.com/pavelzw/pixi-diff-to-markdown) - Generate markdown summaries from `pixi update`.
-- [pixi-pack](https://github.com/quantco/pixi-pack) - Pack and unpack environments to/from a tarball.
+- [pixi-pack](https://github.com/quantco/pixi-pack) - Pack Pixi environments to/from a tarball.
+- [pixi-unpack](https://github.com/quantco/pixi-pack) - Unpack Pixi environments from a tarball.
 - [pixi-diff](https://github.com/pavelzw/pixi-diff) - Generate JSON diffs between lockfiles.
 - [pixi-inspect](https://github.com/toprinse/pixi-inspect) - Analyze a conda package and extracts metadata from its `index.json`.
 - [pixi-inject](https://github.com/pavelzw/pixi-inject) - Inject conda packages into an already existing conda prefix.
 - [pixi-outdated](https://github.com/benmoss/pixi-outdated) - Find outdated packages in an environment.
+- [pixi-to-conda-lock](https://github.com/basnijholt/pixi-to-conda-lock) - Convert Pixi lockfiles to conda-lock format.
+- [pixi-ros](https://github.com/ruben-arts/pixi-ros) - Initialize a Pixi workspace from a ROS workspace.
+- [pixi-browse](https://github.com/pavelzw/pixi-browse) - Browse conda packages interactively.
+- [pixi-skills](https://github.com/pavelzw/pixi-skills) - Manage coding agent skills with Pixi.
+- [pixi-install-to-prefix](https://github.com/pavelzw/pixi-install-to-prefix) - Install Pixi environments to an arbitrary prefix.
+
+## Build Backends
+
+Pixi build backends for building conda packages with `pixi build`, [documentation](https://pixi.prefix.dev/latest/build/getting_started/).
+
+- [pixi-build-python](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Python projects.
+- [pixi-build-cmake](https://github.com/prefix-dev/pixi-build-backends) - Build backend for CMake projects.
+- [pixi-build-rust](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Rust projects.
+- [pixi-build-r](https://github.com/prefix-dev/pixi-build-backends) - Build backend for R packages.
+- [pixi-build-mojo](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Mojo projects.
+- [pixi-build-rattler-build](https://github.com/prefix-dev/pixi-build-backends) - Build backend using rattler-build.
+- [pixi-build-ros](https://github.com/prefix-dev/pixi-build-backends) - Build backend for ROS packages.
 
 ## IDE Support
 
