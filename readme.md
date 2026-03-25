@@ -83,6 +83,7 @@ Tools to help you use Pixi in your favorite IDE.
 
 - [NVIDIA/numba-cuda](https://github.com/NVIDIA/numba-cuda) - The CUDA target for Numba.
 - [modular/mojo-gpu-puzzles](https://github.com/modular/mojo-gpu-puzzles) - A collection of GPU-accelerated puzzles implemented in Mojo.
+- [cuda-python](https://github.com/nvidia/cuda-python) - CUDA Python bindings for Python, providing access to NVIDIA's CUDA parallel computing platform.
 
 ### Robotics
 
@@ -95,6 +96,7 @@ Tools to help you use Pixi in your favorite IDE.
 - [VistaDream](https://github.com/pablovela5620/VistaDream) - Sampling multiview consistent images for single-view scene reconstruction.
 - [pfizer-opensource/bigwig-loader](https://github.com/pfizer-opensource/bigwig-loader) - A fast dataloader for bigwig files made for machine learning.
 - [facebookresearch/momentum](https://github.com/facebookresearch/momentum) - A library for human kinematic motion and numerical optimization solvers to apply human motion.
+- [kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI.
 
 ### Data Science / Data Analysis
 
