@@ -25,6 +25,8 @@ Where can you learn about Pixi?
   - [Anaconda](https://www.youtube.com/watch?v=sItH-WKxdBo) - Environment Management with Pixi.
   - [ROS with Pixi playlist](https://www.youtube.com/watch?v=-ywpmxbb8_A&list=PLJ18jaEFbsWiCfrbczEoDTXqhpdsZJfjc) - Playlist containing short videos to manage ROS environments with Pixi.
 - Conference talks:
+  - [ROSCON 2025](https://vimeo.com/showcase/11987695?video=1136377632) - Solving ROS package management with Pixi and RoboStack - Ruben Arts.
+  - [CppCon 2025](https://www.youtube.com/watch?v=SQk0lKv2swk) - Cross-Platform Package Management for Modern C++ Development with Pixi - Ruben Arts.
   - [EuroPython 2025](https://www.youtube.com/watch?v=HOqv3kh4z_c) - Unlocking Hidden Power of Conda with Pixi — Ruben Arts, Julian Hofer.
   - [SciPy 2025](https://www.youtube.com/watch?v=UeyMkK5MzcA) - Reproducible Science Made Easy: Package Management with Pixi - Ruben Arts & Wolf Vollprecht.
   - [PyCon DE 2025](https://www.youtube.com/watch?v=ScxPMrIMahY) - Streamlining Python deployment with Pixi: A Perspective from production - Dennis Weyland.
