@@ -41,8 +41,7 @@ Where can you learn about Pixi?
 Community made tools and extensions, [documentation](https://pixi.sh/latest/integration/extensions/introduction/).
 
 - [pixi-diff-to-markdown](https://github.com/pavelzw/pixi-diff-to-markdown) - Generate markdown summaries from `pixi update`.
-- [pixi-pack](https://github.com/quantco/pixi-pack) - Pack Pixi environments to/from a tarball.
-- [pixi-unpack](https://github.com/quantco/pixi-pack) - Unpack Pixi environments from a tarball.
+- [pixi-pack](https://github.com/quantco/pixi-pack) && `pixi-unpack` - Pack Pixi environments to/from a tarball.
 - [pixi-diff](https://github.com/pavelzw/pixi-diff) - Generate JSON diffs between lockfiles.
 - [pixi-inspect](https://github.com/toprinse/pixi-inspect) - Analyze a conda package and extracts metadata from its `index.json`.
 - [pixi-inject](https://github.com/pavelzw/pixi-inject) - Inject conda packages into an already existing conda prefix.
@@ -57,13 +56,13 @@ Community made tools and extensions, [documentation](https://pixi.sh/latest/inte
 
 Pixi build backends for building conda packages with `pixi build`, [documentation](https://pixi.prefix.dev/latest/build/getting_started/).
 
-- [pixi-build-python](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Python projects.
-- [pixi-build-cmake](https://github.com/prefix-dev/pixi-build-backends) - Build backend for CMake projects.
-- [pixi-build-rust](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Rust projects.
-- [pixi-build-r](https://github.com/prefix-dev/pixi-build-backends) - Build backend for R packages.
-- [pixi-build-mojo](https://github.com/prefix-dev/pixi-build-backends) - Build backend for Mojo projects.
-- [pixi-build-rattler-build](https://github.com/prefix-dev/pixi-build-backends) - Build backend using rattler-build.
-- [pixi-build-ros](https://github.com/prefix-dev/pixi-build-backends) - Build backend for ROS packages.
+- [pixi-build-python](https://pixi.prefix.dev/latest/build/backends/pixi-build-python/) - Build backend for Python projects.
+- [pixi-build-cmake](https://pixi.prefix.dev/latest/build/backends/pixi-build-cmake/) - Build backend for CMake projects.
+- [pixi-build-rust](https://pixi.prefix.dev/latest/build/backends/pixi-build-rust/) - Build backend for Rust projects.
+- [pixi-build-r](https://pixi.prefix.dev/latest/build/backends/pixi-build-r/) - Build backend for R packages.
+- [pixi-build-mojo](https://pixi.prefix.dev/latest/build/backends/pixi-build-mojo/) - Build backend for Mojo projects.
+- [pixi-build-rattler-build](https://pixi.prefix.dev/latest/build/backends/pixi-build-rattler-build/) - Build backend using rattler-build.
+- [pixi-build-ros](https://pixi.prefix.dev/latest/build/backends/pixi-build-ros/) - Build backend for ROS packages.
 
 ## IDE Support
 
