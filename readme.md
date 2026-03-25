@@ -10,6 +10,7 @@ This is a curated list of awesome things related to Pixi.
 - [Extensions](#extensions)
 - [IDE Support](#ide-support)
 - [Projects using Pixi](#projects-using-pixi)
+- [Contribute](#contribute)
 
 ## Learning
 
@@ -19,20 +20,20 @@ Where can you learn about Pixi?
 - [GitHub Repo](http://github.com/prefix-dev/pixi)
 - Videos
   - [Jean Golding Institute](https://www.youtube.com/watch?v=ws92c5NFPaU) - Can others reproduce your `conda` results? Using `pixi` in a Python data analysis project.
-  - [Inspiring Computing](https://www.youtube.com/watch?v=jkkMZqdbEeY) - Pixi: Getting Started
-  - [Anaconda](https://www.youtube.com/watch?v=sItH-WKxdBo) - Environment Management with Pixi
+  - [Inspiring Computing](https://www.youtube.com/watch?v=jkkMZqdbEeY) - Pixi: Getting Started.
+  - [Anaconda](https://www.youtube.com/watch?v=sItH-WKxdBo) - Environment Management with Pixi.
   - [ROS with Pixi playlist](https://www.youtube.com/watch?v=-ywpmxbb8_A&list=PLJ18jaEFbsWiCfrbczEoDTXqhpdsZJfjc) - Playlist containing short videos to manage ROS environments with Pixi.
 - Conference talks:
-  - [EuroPython 2025](https://www.youtube.com/watch?v=HOqv3kh4z_c) - Unlocking Hidden Power of Conda with Pixi — Ruben Arts, Julian Hofer
-  - [SciPy 2025](https://www.youtube.com/watch?v=UeyMkK5MzcA) - Reproducible Science Made Easy: Package Management with Pixi - Ruben Arts & Wolf Vollprecht
-  - [PyCon DE 2025](https://www.youtube.com/watch?v=ScxPMrIMahY) - Streamlining Python deployment with Pixi: A Perspective from production - Dennis Weyland
-  - [PyData Paris 2024](https://www.youtube.com/watch?v=O-up045PgXE) - Bridging the worlds: pixi reimplements pip and conda in Rust - Nichita Morcotilo
+  - [EuroPython 2025](https://www.youtube.com/watch?v=HOqv3kh4z_c) - Unlocking Hidden Power of Conda with Pixi — Ruben Arts, Julian Hofer.
+  - [SciPy 2025](https://www.youtube.com/watch?v=UeyMkK5MzcA) - Reproducible Science Made Easy: Package Management with Pixi - Ruben Arts & Wolf Vollprecht.
+  - [PyCon DE 2025](https://www.youtube.com/watch?v=ScxPMrIMahY) - Streamlining Python deployment with Pixi: A Perspective from production - Dennis Weyland.
+  - [PyData Paris 2024](https://www.youtube.com/watch?v=O-up045PgXE) - Bridging the worlds: pixi reimplements pip and conda in Rust - Nichita Morcotilo.
 - Conference Workshops:
-  - [SciPy 2025](https://www.youtube.com/watch?v=8AYp3MlRSNA) - Reproducible Machine Learning Workflows for Scientists with pixi - Arts, Feickert, & Kirkham
+  - [SciPy 2025](https://www.youtube.com/watch?v=8AYp3MlRSNA) - Reproducible Machine Learning Workflows for Scientists with pixi - Arts, Feickert, & Kirkham.
 
 ### Example projects
 
-- [pixi-docker-chtc](https://github.com/UW-Madison-DSI/pixi-docker-chtc) - Example configurations for using containerized Pixi environments with HTCondor and GPUs
+- [pixi-docker-chtc](https://github.com/UW-Madison-DSI/pixi-docker-chtc) - Example configurations for using containerized Pixi environments with HTCondor and GPUs.
 
 ## Extensions
 
@@ -49,14 +50,14 @@ Community made tools and extensions, for documentation [check here](https://pixi
 
 Tools to help you use Pixi in your favorite IDE.
 
-- [pixi-pycharm](https://github.com/pavelzw/pixi-pycharm) - Conda shim for PyCharm that proxies Pixi
-- [pixi-kernel](https://github.com/renan-r-santos/pixi-kernel) - Jupyter kernels using Pixi for reproducible notebooks
-- [pixi-vscode](https://marketplace.visualstudio.com/items?itemName=jjjermiah.pixi-vscode) - Visual Studio Code extension to manage Pixi environments
+- [pixi-pycharm](https://github.com/pavelzw/pixi-pycharm) - Conda shim for PyCharm that proxies Pixi.
+- [pixi-kernel](https://github.com/renan-r-santos/pixi-kernel) - Jupyter kernels using Pixi for reproducible notebooks.
+- [pixi-vscode](https://marketplace.visualstudio.com/items?itemName=jjjermiah.pixi-vscode) - Visual Studio Code extension to manage Pixi environments.
 
 ## Projects using Pixi
 
 - [lfortran](https://github.com/lfortran/lfortran) - A modern interactive compiler and runtime for Fortran.
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - FreeCAD is a general-purpose parametric 3D CAD modeler and a BIM software.
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - A general-purpose parametric 3D CAD modeler and a BIM software.
 
 ### GPU Computing
 
@@ -66,20 +67,20 @@ Tools to help you use Pixi in your favorite IDE.
 ### Robotics
 
 - [ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
-- [VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
+- [VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets.
 - [rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data.
 
 ### Deep Learning / Machine Learning
 
 - [VistaDream](https://github.com/pablovela5620/VistaDream) - Sampling multiview consistent images for single-view scene reconstruction.
-- [pfizer-opensource/bigwig-loader](https://github.com/pfizer-opensource/bigwig-loader) - A fast dataloader for bigwig files made for machine learning
-- [facebookresearch/momentum](https://github.com/facebookresearch/momentum) - A library for human kinematic motion and numerical optimization solvers to apply human motion
+- [pfizer-opensource/bigwig-loader](https://github.com/pfizer-opensource/bigwig-loader) - A fast dataloader for bigwig files made for machine learning.
+- [facebookresearch/momentum](https://github.com/facebookresearch/momentum) - A library for human kinematic motion and numerical optimization solvers to apply human motion.
 
 ### Data Science / Data Analysis
 
 - [SciPy](https://github.com/scipy/scipy) - Scientific computing library for Python.
-- [MODFLOW6](https://github.com/MODFLOW-ORG/modflow6) - USGS Modular Hydrologic Model
-- [Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [MODFLOW6](https://github.com/MODFLOW-ORG/modflow6) - USGS Modular Hydrologic Model.
+- [Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI.
 
 ## Contribute
 

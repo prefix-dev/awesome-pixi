@@ -1,13 +1,12 @@
-name: ci
+name: CI
 on:
-  push:
-    branches: main
   pull_request:
-    branches: main
+    branches: [main]
 jobs:
-  build:
+  Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: denoland/setup-deno@v2
-      - run: deno -A npm:markdown-link-check@3.14.2 README.md
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint@2.2.3
