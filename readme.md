@@ -104,6 +104,7 @@ Tools to help you use Pixi in your favorite IDE.
 - [SciPy](https://github.com/scipy/scipy) - Scientific computing library for Python.
 - [MODFLOW6](https://github.com/MODFLOW-ORG/modflow6) - USGS Modular Hydrologic Model.
 - [Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI.
+- [Xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python.
 
 ## Contribute
 
