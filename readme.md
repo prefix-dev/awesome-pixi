@@ -53,6 +53,7 @@ Community made tools and extensions, [documentation](https://pixi.sh/latest/inte
 - [pixi-browse](https://github.com/pavelzw/pixi-browse) - Browse conda packages interactively.
 - [pixi-skills](https://github.com/pavelzw/pixi-skills) - Manage coding agent skills with Pixi.
 - [pixi-install-to-prefix](https://github.com/pavelzw/pixi-install-to-prefix) - Install Pixi environments to an arbitrary prefix.
+- [pixi-lock action](https://github.com/Parcels-code/pixi-lock) - GitHub Actions to easily cache and restore lock files generated in CI.
 
 ## Build Backends
 
