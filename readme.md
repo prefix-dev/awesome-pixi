@@ -37,6 +37,7 @@ Where can you learn about Pixi?
 ### Example projects
 
 - [pixi-docker-chtc](https://github.com/UW-Madison-DSI/pixi-docker-chtc) - Example configurations for using containerized Pixi environments with HTCondor and GPUs.
+- [copier-template-python-open-source](https://github.com/Quantco/copier-template-python-open-source) - Copier Template for Python projects using Pixi.
 
 ## Extensions
 
